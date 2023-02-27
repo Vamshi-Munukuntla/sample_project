@@ -1,3 +1,4 @@
 # This is the Git Tutorial by Vamshi M.
 
-# Performing github commits 
+# git basics
+# git branching
